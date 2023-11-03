@@ -26,13 +26,13 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 10000,
     layersOrder: [
+      { name: "Table" },
       { name: "Item" },
       { name: "LeftPot" },
       { name: "LeftSofa" },
       { name: "RightPot" },
       { name: "RightSofa" },
       { name: "Shelf" },
-      { name: "Table" },
     ],
   },
 ];
