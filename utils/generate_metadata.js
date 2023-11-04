@@ -146,7 +146,7 @@ const saveMetadata = (_loadedImageObject) => {
     compiler: "HashLips Art Engine",
   };
   fs.writeFileSync(
-    `${buildDir}/${shortName}.json`,
+    `${buildDir}/${shortName}`,
     JSON.stringify(tempMetadata, null, 2)
   );
   metadataList.push(tempMetadata);
