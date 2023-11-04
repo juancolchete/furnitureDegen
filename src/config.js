@@ -5,9 +5,9 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
-const baseUri = "https://bafybeibdwnuvlhhv5r222ttp25wap2phsbayxseyyu2jbmalnbw5sqggaa.ipfs.nftstorage.link";
+const namePrefix = "Furniture Degen";
+const description = "Degen Furniture is a collection focoused in give nostalgic vibes to 2d 8bit games";
+const baseUri = "ipfs://bafybeibqhdfn25mfdn7qbk2t5hoza54lgtas6l6jex2dxrultkt2au2jce";
 
 const solanaMetadata = {
   symbol: "YC",
