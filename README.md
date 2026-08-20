@@ -1,1 +1,1 @@
-# Geberative AI collection 
+# Generative AI collection 
